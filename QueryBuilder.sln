@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryBuilder.Business.Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryBuilder.Business", "QueryBuilder.Business\QueryBuilder.Business.csproj", "{AC5D54C4-BA44-4479-A763-ACAE3D43AC07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryBuilder.Business.Tests", "QueryBuilder.Business.Tests\QueryBuilder.Business.Tests.csproj", "{DEE1B369-296B-4E42-8708-1F0BF7E5604C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AC5D54C4-BA44-4479-A763-ACAE3D43AC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5D54C4-BA44-4479-A763-ACAE3D43AC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC5D54C4-BA44-4479-A763-ACAE3D43AC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE1B369-296B-4E42-8708-1F0BF7E5604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE1B369-296B-4E42-8708-1F0BF7E5604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE1B369-296B-4E42-8708-1F0BF7E5604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE1B369-296B-4E42-8708-1F0BF7E5604C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
